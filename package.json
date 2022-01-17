@@ -1,5 +1,5 @@
 {
-  "name": "umiSwagger",
+  "name": "umi-swagger",
   "version": "0.0.1",
   "description": "将swagger的数据转化为umi中所需要的数据格式",
   "main": "index.js",
